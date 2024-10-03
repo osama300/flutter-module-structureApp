@@ -75,5 +75,5 @@ lib/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-flutter-project.git
+   git clone https://github.com/osama300/flutter-module-structureApp.git
 
