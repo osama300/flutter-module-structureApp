@@ -78,13 +78,13 @@ lib/
    git clone https://github.com/osama300/flutter-module-structureApp.git
    ```
 2.Install dependencies:
-  ```bash
-   flutter pub get
-   ```
+    ```bash
+     flutter pub get
+    ```
 3.Run the app:
-  ```bash
+    ```bash
      flutter run
-   ```
+    ```
    
 
 
